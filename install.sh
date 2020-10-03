@@ -6,7 +6,7 @@
 #
 
 echo "update aplikasi"
-pkg update
+pkg update -y
 
 echo "upgrade aplikasi"
 pkg upgrade -y
